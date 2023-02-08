@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+}
+.container > iframe {
+    background: whitesmoke;
+    border: none;
+    height: 90%;
+    width: 90%;
+}
